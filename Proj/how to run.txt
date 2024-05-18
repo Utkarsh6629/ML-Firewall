@@ -1,0 +1,2 @@
+in cmd open the log file dir and then run using python 27 
+once in dir use >c:\python27\python.exe log_parse.py
